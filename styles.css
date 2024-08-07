@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6c5ce7;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.stories-list {
+    margin: 20px;
+}
+
+.stories-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.stories-list li {
+    margin: 10px 0;
+}
+
+.stories-list a {
+    color: #6c5ce7;
+    text-decoration: none;
+}
+
+.stories-list a:hover {
+    text-decoration: underline;
+}
+
+.visitor-counter {
+    margin-top: 10px;
+    font-size: 14px;
+}
